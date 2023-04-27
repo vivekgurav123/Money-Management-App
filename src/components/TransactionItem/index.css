@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.item {
+  display: flex;
+  justify-content: space-around;
+}
+.item img {
+  width: 20px;
+}
+.item button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
